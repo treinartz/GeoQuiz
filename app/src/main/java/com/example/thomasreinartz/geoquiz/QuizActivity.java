@@ -10,14 +10,14 @@ public class QuizActivity extends ActionBarActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
-        super.onCreate(savedInstanceState);//no changes
+        super.onCreate(savedInstanceState);//no changes....
         setContentView(R.layout.activity_quiz);
     }
 
 
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
-        // Inflate the menu; this adds items to the action bar if it is present.
+        // Inflate the menu; this adds items to the action bar if it is present....
         getMenuInflater().inflate(R.menu.menu_quiz, menu);
         return true;
     }
