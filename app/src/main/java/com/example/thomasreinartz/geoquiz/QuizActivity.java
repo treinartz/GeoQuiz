@@ -10,7 +10,7 @@ public class QuizActivity extends ActionBarActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
-        super.onCreate(savedInstanceState);//no changes....///
+        super.onCreate(savedInstanceState);//no changes..../////
         setContentView(R.layout.activity_quiz);
     }
 
